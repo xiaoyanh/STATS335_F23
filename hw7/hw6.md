@@ -1,4 +1,4 @@
-# Homework 6: Tabular Classification and Weights & Biases
+# Homework 7: Tabular Classification and Weights & Biases
 
 In this homework, you will perform an XYZ experiment in a 
 Colaboratory Notebook and log the results to weights and biases.
@@ -27,12 +27,12 @@ Colaboratory Notebook and log the results to weights and biases.
 
    (Otherwise, you will not be allowed to save changes.)
 
-2. Rename the copied file to `hw6_xgboost.ipynb`.
+2. Rename the copied file to `hw7_xgboost.ipynb`.
 
-3. Change the project name in the `wandb.init` call to `stats-285-xgboost` 
+3. Change the project name in the `wandb.init` call to `stats-335-xgboost` 
    by changing the relevant line to the following:
    ```python
-   project="stats-285-xgboost"
+   project="stats-335-xgboost"
    ```
 
 2. In class, we varied the number of `lambda` and `depth` parameters.
@@ -62,12 +62,12 @@ Colaboratory Notebook and log the results to weights and biases.
 
    (Otherwise, you will not be allowed to save changes.)
 
-2. Rename the copied file to `hw6_catboost.ipynb`.
+2. Rename the copied file to `hw7_catboost.ipynb`.
 
 3. Change the project name in the `wandb.init` call to `stats-285-catboost` 
    by changing the relevant line to the following:
    ```python
-   project="stats-285-catboost"
+   project="stats-335-catboost"
    ```
    
    4. Follow the instructions in the **XYZ Experiment** and **Submit** sections above, 
@@ -85,12 +85,12 @@ Colaboratory Notebook and log the results to weights and biases.
 1. Click "File" -> "Save a copy in Drive" to save a copy of the notebook to your Google Drive.
 
    (Otherwise, you will not be allowed to save changes.)
-2. Rename the copied file to `hw6_lightgbm.ipynb`.
+2. Rename the copied file to `hw7_lightgbm.ipynb`.
 
 3. Change the project name in the `wandb.init` call to `stats-285-lightgbm` 
    by changing the relevant line to the following:
    ```python
-   project="stats-285-lightgbm"
+   project="stats-335-lightgbm"
    ```
 4. Follow the instructions in the **XYZ Experiment** and **Submit** sections above, 
    but this time using the LightGBM library instead of XGBoost.
