@@ -11,17 +11,16 @@ Colaboratory Notebook and log the results to weights and biases.
    (If you don't already have one.)
 
 2. Go to the `XGBoost_demo.ipynb` notebook ([here](https://github.com/xiaoyanh/STATS335_F23/blob/master/hw7/XGBoost_demo.ipynb)) in this folder and click the 
-   "Open in Colab" button.
-
-   (This is the demo we did in class.)
+   "Open in Colab" button. 
+    ####
 
 3. In colaboratory, sure you are logged into your *Stanford email*.
 
-4. Click "File" -> "Save a copy in Drive" to save a copy of the notebook to your Google Drive.
-
-   (Otherwise, you will not be allowed to save changes.)
+3. Read and run this demo.
 
 ## XGBoost
+
+You will now rewrite this code using different parameters to search over.
 
 1. Click "File" -> "Save a copy in Drive" to save a copy of the notebook to your Google Drive.
 
