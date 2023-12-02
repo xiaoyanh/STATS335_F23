@@ -109,10 +109,10 @@ On canvas, submit the following:
    * What do you think are the fields and tasks that would benefit from the usage of BenchOpt?
    * What do you think are the biggest obstacles that may prevent the widespread adoption of BenchOpt? Why?
 3. **Long Answer Question:**
-   In the same PDF, write a 1-2 page proposal for a hypothetical challenge. Assume, say, you have $1M of prize money
-   to work with. Describe the following:
+   In the same PDF, write a 1-2 page proposal for a hypothetical challenge. Describe the following:
    * What would be the task of the challenge and the problem it seems to address.
    * What will be the `rules` of the challenge.
    * What tools will could be used to host, evaluate, and share the results of the challenge.
-   * How would you allocate the prize money?
+   * What will be the prizes associated with your challenge and how you will allocate it?
+   * What type of engagement will your prizes be used to incentivize?
    * How does your proposed challenge compare to some of those we studied in class?
