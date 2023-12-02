@@ -70,20 +70,20 @@ installed on your computer. If not, there are many resources online for installi
 
    get a sense for how the benchmark was adapted from the parts of notebook you read earlier.
 
-3. The notebook is only partially adapted: The benchmark is missing the following:
+3. The notebook is only partially adapted. The benchmark is missing the following:
    * The Forest Covertype dataset
    * The XGBoost and LightGBM solvers
    
-   Add these to the benchmark by using the notebook and existing files as a guide.
+   Add these to the benchmark by using the notebook and existing files as guides.
 
 4. **Submit:** Perform `benchopt run` again. Submit the resulting .html file to Canvas.
 
 # Task 2: Extend the benchmark
 
 1. Extend the benchmark by doing the following:
-   * Add three more datasets of your choice to the benchmark by either extending the
+   * Add **two more datasets** of your choice to the benchmark by either extending the
      `datasets/datasets_huggingface.py` file or by writing your own datasets file.
-   * Add two more solvers of your choice to the benchmark by writing your own solver files.
+   * Add **two more solvers** of your choice to the benchmark by writing your own solver files.
 2. Expand the solvers (both the ones you added and the original Linear, XGBoost, and LightGBM solvers),
    such that each varies least **three** different control parameters (such as `reg_lambda`, `max_depth`, etc).
    * Overall, there should be at least **eight** different experiments (associated with different control parameter 
