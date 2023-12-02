@@ -108,7 +108,7 @@ On canvas, submit the following:
      how is it similar? How is it different?
    * What do you think are the fields and tasks that would benefit from the usage of BenchOpt?
    * What do you think are the biggest obstacles that may prevent the widespread adoption of BenchOpt? Why?
-3. **Long Answer Question**
+3. **Long Answer Question:**
    In the same PDF, write a 1-2 page proposal for a hypothetical challenge. Assume, say, you have $1M of prize money
    to work with. Describe the following:
    * What would be the task of the challenge and the problem it seems to address.
