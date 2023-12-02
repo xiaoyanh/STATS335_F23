@@ -11,7 +11,7 @@ This homeworks assumes you already possess a github account. It also assumes you
 installed on your computer. If not, there are many resources online for installing them: Please 
 independently install them using the resource of your choice before proceeding.
 
-## Setup
+## Read Notebook
 
 1. Go to [https://github.com/xyhan-github/STATS335_F23/blob/master/hw8/TabularDemo.ipynb](https://github.com/xyhan-github/STATS335_F23/blob/master/hw8/TabularDemo.ipynb).
 
@@ -29,7 +29,7 @@ independently install them using the resource of your choice before proceeding.
 
 3. In Google Colab, read and run the code in the notebook to make sure you understand what it does.
 
-## Getting Started With BenchOpt
+## Setup BenchOpt
 
 1. Open a terminal window on your computer.
 
@@ -57,5 +57,26 @@ independently install them using the resource of your choice before proceeding.
     ```
     $ benchopt run
     ```
+    If everything was set up correctly, this should generate a .html file of results
+    that contains the results of running the housing prices and adult income datasets
+    on the linear classification model (regression or logistic regression depending on the dataset)
+    across three parameter setting for the $L_2$ regularization parameter (`reg_lambda`).
+   
+## Task 1: Finish adapting the notebook
+
+1. Study the `objective.py`, `solvers/linear_l2.py`, and `datasets/datasets_huggingface.py` files.
+2. Using the BenchOpt documentation
+
+   [https://benchopt.github.io/tutorials/build_benchmark.html](https://benchopt.github.io/tutorials/build_benchmark.html)
+
+   get a sense for how the benchmark was adapted from the parts of notebook you read earlier.
+
+3. The notebook is only partially adapted: The benchmark is missing the following:
+   * The Forest Covertype dataset
+   * The XGBoost and LightGBM solvers
+   
+   Add these to the benchmark by using the notebook and existing files as a guide.
+
+4. **Submit:** Perform `benchopt run` again. Submit the resulting .html file to Canvas.
 
 
