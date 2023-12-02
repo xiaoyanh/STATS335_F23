@@ -8,8 +8,7 @@ control parameters.
 ## Prerequisites
 
 This homeworks assumes you already possess a github account. It also assumes you have `git`, `pip`, and `conda` 
-installed on your computer. If not, there are many resources online for installing them: Please 
-independently install them using the resource of your choice before proceeding.
+installed on your computer. If not, there are many resources online for installing them: Please do so before proceeding.
 
 ## Read Notebook
 
