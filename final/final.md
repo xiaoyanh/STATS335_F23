@@ -85,8 +85,8 @@ installed on your computer. If not, there are many resources online for installi
      `datasets/datasets_huggingface.py` file or by writing your own datasets file.
    * Add **two more solvers** of your choice to the benchmark by writing your own solver files.
 2. Expand the solvers (both the ones you added and the original Linear, XGBoost, and LightGBM solvers),
-   such that each varies least **three** different control parameters (such as `reg_lambda`, `max_depth`, etc).
-   * Overall, there should be at least **eight** different experiments (associated with different control parameter 
+   such that each varies least **three different control parameters** (such as `reg_lambda`, `max_depth`, etc).
+   * Overall, there should be at least **eight different experiments** (associated with different control parameter 
      settings) performed for **each** dataset-solver combination.
 3. Run the extended benchmark using `benchopt run`.
 4. Follow the instructions in the below documentation to publish your results to BenchOpt:
