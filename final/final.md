@@ -12,7 +12,7 @@ installed on your computer. If not, there are many resources online for installi
 
 ## Read Notebook
 
-1. Go to [https://github.com/xyhan-github/STATS335_F23/blob/master/hw8/TabularDemo.ipynb](https://github.com/xyhan-github/STATS335_F23/blob/master/hw8/TabularDemo.ipynb).
+1. Go to [https://github.com/xyhan-github/STATS335_F23/blob/master/final/TabularDemo.ipynb](https://github.com/xyhan-github/STATS335_F23/blob/master/hw8/TabularDemo.ipynb).
 
     ####
     
