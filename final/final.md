@@ -32,6 +32,12 @@ installed on your computer. If not, there are many resources online for installi
 
 1. Open a terminal window on your computer.
 
+2. Create a new conda environment for benchopt.
+   ```
+   conda create -n benchopt python
+   conda activate benchopt # or source activate benchopt
+   ```
+
 3. Install BenchOpt on your computer by typing the following into terminal.
    ```
    $ pip install -U benchopt
